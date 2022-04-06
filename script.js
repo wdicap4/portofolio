@@ -17,7 +17,7 @@ window.addEventListener('scroll', function(){
 
 //typed
 var typed = new Typed('.typed', {
-    strings: ['j’ai un background très intéressant aussi bien en dev qu\'en gestion de projet et une expérience avec JavaScript et PHP. J’ai de l’expérience dans la gestion de conditions de travail difficiles et je peux donc commencer à produire des résultats dès le premier mois de travail. '],
+    strings: ['j’ai un background très intéressant aussi bien en dev qu\'en gestion de projet et une expérience avec JavaScript et PHP. J’ai de l’expérience dans la gestion de conditions de travail difficiles et je peux donc commencer à produire des résultats dès le premier mois de travail.'],
     typeSpeed: 20,
  
   });
